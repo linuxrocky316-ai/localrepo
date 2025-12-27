@@ -1,2 +1,2 @@
 Hello wolrld of distraction
-world of linux
+world of RHEL
