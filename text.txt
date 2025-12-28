@@ -1,2 +1,6 @@
 Hello wolrld of distraction
 world of devops
+<<<<<<< HEAD
+=======
+world of RHEL
+>>>>>>> 877ea6c7cf739fe9ff21db51addd9493386a371c
